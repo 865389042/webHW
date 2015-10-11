@@ -10,7 +10,7 @@ h1 {
   font-weight: bold;
   font-size: 22pt;
   text-decoration: underline;
-  word-spacing: 0.2em;
+  letter-spacing: 0.2em;
 }
 h2 {
   text-align: left;
@@ -20,6 +20,7 @@ h2 {
   font-weight: normal;
   font-size: 18pt;
   text-decoration: underline;
+  letter-spacing: 0.2em;
 }
 p1 {
   color: #404040;
