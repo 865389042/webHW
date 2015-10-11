@@ -22,7 +22,7 @@ h2 {
   text-decoration: underline;
   letter-spacing: 0.2em;
 }
-p1 {
+p {
   color: #404040;
   font-size: 11pt;
   font-family:Georgia, Garamond,serif;
@@ -37,9 +37,6 @@ ol {
   color: #404040;
   font-size: 11pt;
   font-family:Georgia, Garamond,serif;
-}
-p2 {
-  font-weight:bold;
 }
 blockquote {
   color: #404040;

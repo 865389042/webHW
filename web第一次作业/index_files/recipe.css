@@ -2,22 +2,15 @@ body {
   background-image:url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
   background-attachment: fixed;
 }
-p1 {
-  color: red;
-}
-p2 {
+p {
   color: #404040;
-  font-size: 11pt;
+  font-size: 22pt;
   font-family:Georgia, Garamond,serif;
+  text-align: center;
 }
-p3 {
-  font-size:  -webkit-xxx-large;
+h1 {
+  font-size: 100pt;
   font-family: cursive;
   color: darkorchid;
-}
-p4 {
-  font-size: -webkit-xxx-large;
-  font-style: italic;
-  font-family: fantasy;
-  color: chartreuse;
+  text-align: center;
 }
